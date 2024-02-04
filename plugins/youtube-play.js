@@ -45,7 +45,7 @@ const jarspy = async (m, { conn, text, usedPrefix, command }) => {
       await conn.sendMessage(m.chat, { audio: { url: audioUrl }, mimetype: 'audio/mpeg' }, { quoted: m });
     }
   } catch (e) {
-    conn.reply(m.chat, `*Error:* ` + eror, m);
+    conn.reply(m.chat, `*Error:* ` + e, m);
   }
 };
 
