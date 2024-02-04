@@ -1,6 +1,17 @@
 ![cover](https://telegra.ph/file/476dabd35c800091e0357.jpg)
 
-# Jarspy Bot
+<h1 align="center">Jarspy - Bot</h1>
+
+<p align="center">
+<a href="https://wa.me/6282148864989"><img title="Grup" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=whatsapp"></a>
+</p>
+<p align="center">
+<a href="https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Jarspy Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
+</p>
+<p align="center">
+<a href="https://discord.com/invite/2t3qJzuUxH"><img title="Grup" src="https://img.shields.io/badge/Discord Server-grey.svg?style=for-the-badge&logo=discord"></a>
+
+# Introduction
 > Jarspy is a WhatsApp Bot with many multifunctional features, using [Games-Wabot](https://github.com/BochilGaming/games-wabot) Base by [BochilGaming](https://github.com/BochilGaming)
 
 ### The features we provide
