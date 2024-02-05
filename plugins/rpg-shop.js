@@ -19,6 +19,12 @@ const items = {
         medkit: {
             money: 400,
         },
+        fuel: {
+            money: 1000,
+        },
+        car: {
+            money: 10000,
+        },
         uncommon: {
             money: 700,
         },
@@ -47,6 +53,12 @@ const items = {
         },
         medkit: {
             money: 200,
+        },
+        fuel: {
+            money: 500,
+        },
+        car: {
+            money: 5000,
         },
         uncommon: {
             money: 350,
